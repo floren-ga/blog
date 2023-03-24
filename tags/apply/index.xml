@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apply on mrpyton - Personal Blog</title>
+    <link>https://blog.mrpyton.com/tags/apply/</link>
+    <description>Recent content in apply on mrpyton - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.mrpyton.com/tags/apply/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bind, call y apply en javascript</title>
+      <link>https://blog.mrpyton.com/posts/javascript/bind_call_apply/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/javascript/bind_call_apply/</guid>
+      <description>Entender los métodos bind(), call() y apply() en javascript bind() El objeto car guarda los datos de un coche y dispone de un método que devuelve, concatenados, la marca y modelo del mismo:
+let car = {  mark: &amp;#34;VOLVO&amp;#34;,  model: &amp;#34;XC60&amp;#34;,  getNameCar: function () {  let carIdentification = this.</description>
+    </item>
+    
+  </channel>
+</rss>

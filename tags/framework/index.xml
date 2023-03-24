@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>framework on mrpyton - Personal Blog</title>
+    <link>https://blog.mrpyton.com/tags/framework/</link>
+    <description>Recent content in framework on mrpyton - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.mrpyton.com/tags/framework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notas sobre flask</title>
+      <link>https://blog.mrpyton.com/posts/python/flask/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/python/flask/</guid>
+      <description>Flask Instalación y puesta en marcha de Flask En primer lugar creamos una carpeta, por ejemplo, flask1.
+A continuación, desde la Terminal, creamos un entorno virtual:
+virtualenv env Una vez creado el entorno, ejecutamos el siguiente comando:
+# En linux: source env/bin/activate  #En Windows: env\Scripts\activate.bat Se sabe que el entorno virtual está activado porque el promt comienza con (env).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sección editores on mrpyton - Personal Blog</title>
+    <link>https://blog.mrpyton.com/posts/editores/</link>
+    <description>Recent content in Sección editores on mrpyton - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.mrpyton.com/posts/editores/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notas breves sobre Markdown</title>
+      <link>https://blog.mrpyton.com/posts/editores/markdown/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/editores/markdown/</guid>
+      <description>Markdown es un lenguaje de marcado ligero que añade formato a documentos de texto sin formato. Es uno de los lenguajes de marcado más utilizados en el mundo. Y lo mejor de todo: ¡es muy fácil de aprender!.
+ Sintaxis básica Encabezados # H1  ## H2  ### H3  #### H4  ##### H5  ###### H6 Párrafos Dos espacios en la línea anterior (antes del intro) permiten cambiar de línea.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>elementos duplicados on mrpyton - Personal Blog</title>
+    <link>https://blog.mrpyton.com/tags/elementos-duplicados/</link>
+    <description>Recent content in elementos duplicados on mrpyton - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.mrpyton.com/tags/elementos-duplicados/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elementos duplicados en array</title>
+      <link>https://blog.mrpyton.com/posts/javascript/arrays_duplicados/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/javascript/arrays_duplicados/</guid>
+      <description>Elementos duplicados en un array Existen muchas formas de saber si un array tiene elementos duplicados. En la red se pueden encontrar decenas de ejemplos.
+El código que se muestra a continuación viene motivado por una necesidad del trabajo. En el momento de escribir el código no sabía exactamente si quería mostrar al usuario un mensaje detallado sobre el elemento o elementos duplicados o, simplemente, mostrar un mensaje genérico advirtiendo que existía algún elemento duplicado.</description>
+    </item>
+    
+  </channel>
+</rss>

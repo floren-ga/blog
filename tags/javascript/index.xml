@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>javascript on mrpyton - Personal Blog</title>
+    <link>https://blog.mrpyton.com/tags/javascript/</link>
+    <description>Recent content in javascript on mrpyton - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.mrpyton.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fragmentos de código en javascript</title>
+      <link>https://blog.mrpyton.com/posts/javascript/soluciones_varias/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/javascript/soluciones_varias/</guid>
+      <description>addEventListener en navegadores no compatibles Los navegadores que no son compatibles con la especificación del DOM de la W3C no admiten el método addEventListener. Estos navegadores suelen ser versiones antiguas de Internet Explorer y Safari. Si necesita admitir estos navegadores, debe usar el método attachEvent en lugar de addEventListener. Para asignar un controlador de eventos, en lugar de addEventListener, debe usar el siguiente código:</description>
+    </item>
+    
+    <item>
+      <title>bind, call y apply en javascript</title>
+      <link>https://blog.mrpyton.com/posts/javascript/bind_call_apply/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/javascript/bind_call_apply/</guid>
+      <description>Entender los métodos bind(), call() y apply() en javascript bind() El objeto car guarda los datos de un coche y dispone de un método que devuelve, concatenados, la marca y modelo del mismo:
+let car = {  mark: &amp;#34;VOLVO&amp;#34;,  model: &amp;#34;XC60&amp;#34;,  getNameCar: function () {  let carIdentification = this.</description>
+    </item>
+    
+    <item>
+      <title>Elementos duplicados en array</title>
+      <link>https://blog.mrpyton.com/posts/javascript/arrays_duplicados/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/javascript/arrays_duplicados/</guid>
+      <description>Elementos duplicados en un array Existen muchas formas de saber si un array tiene elementos duplicados. En la red se pueden encontrar decenas de ejemplos.
+El código que se muestra a continuación viene motivado por una necesidad del trabajo. En el momento de escribir el código no sabía exactamente si quería mostrar al usuario un mensaje detallado sobre el elemento o elementos duplicados o, simplemente, mostrar un mensaje genérico advirtiendo que existía algún elemento duplicado.</description>
+    </item>
+    
+    <item>
+      <title>Validar IBAN </title>
+      <link>https://blog.mrpyton.com/posts/javascript/iban/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/javascript/iban/</guid>
+      <description>Validación de un IBAN En mi trabajo he de validar números de IBAN ( International Bank Account Number) con mucha frecuencia.
+Hasta ahora he utilizado un algoritmo que &amp;ldquo;alguien&amp;rdquo; había conseguido en internet, pero no me terminaba de convencer. En primer lugar porque no entendía muy bien alguna de las operaciones que hacía y, en segundo lugar, porque pensaba que se podría realizar con menos líneas de código.</description>
+    </item>
+    
+    <item>
+      <title>Arrays en javascript</title>
+      <link>https://blog.mrpyton.com/posts/javascript/arrays/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/javascript/arrays/</guid>
+      <description>Array En javaScript un array es un objeto que puede contener diversos elementos. Estos elementos no tienen por qué ser todos del mismo tipo:
+let un_array = [&amp;#34;lunes&amp;#34;, &amp;#34;martes&amp;#34;, 3, &amp;#34;jueves&amp;#34;, true, &amp;#34;sábado&amp;#34;, {}]; 
+El array dias contiene los 7 días de la semana:
+let dias = [  &amp;#34;lunes&amp;#34;,  &amp;#34;martes&amp;#34;,  &amp;#34;miércoles&amp;#34;,  &amp;#34;jueves&amp;#34;,  &amp;#34;viernes&amp;#34;,  &amp;#34;sábado&amp;#34;,  &amp;#34;domingo&amp;#34;, ];</description>
+    </item>
+    
+    <item>
+      <title>Hugo js</title>
+      <link>https://blog.mrpyton.com/posts/hugo/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/hugo/</guid>
+      <description>Hugo Hugo es un framework que permite crear websites estáticos de forma muy rápida.
+La comunidad de desarrolladores ha creado multitud de temas que puedes usar de forma gratuita para tu blog personal. Desde la web de Hugo puedes acceder a muchos de ellos y si buscas en internet puedes encontrar muchos más.</description>
+    </item>
+    
+  </channel>
+</rss>

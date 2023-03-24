@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>event on mrpyton - Personal Blog</title>
+    <link>https://blog.mrpyton.com/tags/event/</link>
+    <description>Recent content in event on mrpyton - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.mrpyton.com/tags/event/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fragmentos de código en javascript</title>
+      <link>https://blog.mrpyton.com/posts/javascript/soluciones_varias/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/javascript/soluciones_varias/</guid>
+      <description>addEventListener en navegadores no compatibles Los navegadores que no son compatibles con la especificación del DOM de la W3C no admiten el método addEventListener. Estos navegadores suelen ser versiones antiguas de Internet Explorer y Safari. Si necesita admitir estos navegadores, debe usar el método attachEvent en lugar de addEventListener. Para asignar un controlador de eventos, en lugar de addEventListener, debe usar el siguiente código:</description>
+    </item>
+    
+  </channel>
+</rss>

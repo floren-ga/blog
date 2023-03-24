@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>validación on mrpyton - Personal Blog</title>
+    <link>https://blog.mrpyton.com/tags/validaci%C3%B3n/</link>
+    <description>Recent content in validación on mrpyton - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.mrpyton.com/tags/validaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Validar IBAN </title>
+      <link>https://blog.mrpyton.com/posts/javascript/iban/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/javascript/iban/</guid>
+      <description>Validación de un IBAN En mi trabajo he de validar números de IBAN ( International Bank Account Number) con mucha frecuencia.
+Hasta ahora he utilizado un algoritmo que &amp;ldquo;alguien&amp;rdquo; había conseguido en internet, pero no me terminaba de convencer. En primer lugar porque no entendía muy bien alguna de las operaciones que hacía y, en segundo lugar, porque pensaba que se podría realizar con menos líneas de código.</description>
+    </item>
+    
+  </channel>
+</rss>

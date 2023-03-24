@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sección bash on mrpyton - Personal Blog</title>
+    <link>https://blog.mrpyton.com/posts/bash/</link>
+    <description>Recent content in Sección bash on mrpyton - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.mrpyton.com/posts/bash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scripts de bash</title>
+      <link>https://blog.mrpyton.com/posts/bash/notas-bash/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/bash/notas-bash/</guid>
+      <description>Scripts sencillos de bash Hola mundo en bash #!/bin/bash  # Primer script echo &amp;#34;Hola Mundo!&amp;#34; Variables A=&amp;#39;Hola mundo con bash!&amp;#39; echo $A  # Salida: Hola mundo con bash! Control de flujo - Bucles For #!/bin/bash for numero in {1..20..2}; do 	echo Este es el número: $numero done  # Imprime: Este es el número: 1 Este es el número: 3 Este es el número: 5 Este es el número: 7 Este es el número: 9 Este es el número: 11 Este es el número: 13 Este es el número: 15 Este es el número: 17 Este es el número: 19 - Condicionales (if) nombre=&amp;#39;Pepe&amp;#39;  if [[ nombre==&amp;#39;Pepe&amp;#39; ]]; # &amp;lt;- Atención a los espacios y a los corchetes  echo &amp;#34;El nombre es Pepe&amp;#34; then elif [[ nombre==&amp;#39;Juan&amp;#39; ]]  echo &amp;#34;El nombre es Juan&amp;#34; else  echo &amp;#34;No es ni Pepe ni Juan&amp;#34; fi  # Imprime El nombre es Pepe &amp;ndash; Condicionales con números    Operador Significado     -lt Menor que (&amp;lt;)   -gt Mayor que (&amp;gt;)   -le Menor o igual que (&amp;lt;=)   -ge Mayor o igual que (&amp;gt;=)   -eq Igual (==)   -ne Distinto de (!</description>
+    </item>
+    
+    <item>
+      <title>Notas sobre awk</title>
+      <link>https://blog.mrpyton.com/posts/bash/notas-awk/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/bash/notas-awk/</guid>
+      <description>Una poderosa herramienta para procesar datos AWK es un lenguaje de programación diseñado para el procesamiento de datos basados en texto. El nombre, según la Wikipedia, procede de las iniciales de sus autores: Alfred Aho, Peter Weinberger y Brian Kernighan (AWK).
+ Se usa así:
+$ awk options program file awk puede tomar las siguientes opciones:</description>
+    </item>
+    
+  </channel>
+</rss>

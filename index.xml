@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mrpyton - Personal Blog</title>
+    <link>https://blog.mrpyton.com/</link>
+    <description>Recent content on mrpyton - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.mrpyton.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fragmentos de código en javascript</title>
+      <link>https://blog.mrpyton.com/posts/javascript/soluciones_varias/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/javascript/soluciones_varias/</guid>
+      <description>addEventListener en navegadores no compatibles Los navegadores que no son compatibles con la especificación del DOM de la W3C no admiten el método addEventListener. Estos navegadores suelen ser versiones antiguas de Internet Explorer y Safari. Si necesita admitir estos navegadores, debe usar el método attachEvent en lugar de addEventListener. Para asignar un controlador de eventos, en lugar de addEventListener, debe usar el siguiente código:</description>
+    </item>
+    
+    <item>
+      <title>Formularios PDF</title>
+      <link>https://blog.mrpyton.com/posts/python/reportlab/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/python/reportlab/</guid>
+      <description>Reportlab Reportlab te permite crear documentos PDF desde Python. De código abierto, constituye una amplia librería con infinidad de utilidades.
+Instalación pip install reportlab Repositorio https://hg.reportlab.com/hg-public/
+API Permite generar documentos PDF directamente desde Python. Dispone de un lenguaje de plantillas llamado RML
+Documentación: https://www.reportlab.com/dev/docs/
+Hola Mundo! from reportlab.pdfgen import canvas c = canvas.</description>
+    </item>
+    
+    <item>
+      <title>bind, call y apply en javascript</title>
+      <link>https://blog.mrpyton.com/posts/javascript/bind_call_apply/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/javascript/bind_call_apply/</guid>
+      <description>Entender los métodos bind(), call() y apply() en javascript bind() El objeto car guarda los datos de un coche y dispone de un método que devuelve, concatenados, la marca y modelo del mismo:
+let car = {  mark: &amp;#34;VOLVO&amp;#34;,  model: &amp;#34;XC60&amp;#34;,  getNameCar: function () {  let carIdentification = this.</description>
+    </item>
+    
+    <item>
+      <title>Elementos duplicados en array</title>
+      <link>https://blog.mrpyton.com/posts/javascript/arrays_duplicados/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/javascript/arrays_duplicados/</guid>
+      <description>Elementos duplicados en un array Existen muchas formas de saber si un array tiene elementos duplicados. En la red se pueden encontrar decenas de ejemplos.
+El código que se muestra a continuación viene motivado por una necesidad del trabajo. En el momento de escribir el código no sabía exactamente si quería mostrar al usuario un mensaje detallado sobre el elemento o elementos duplicados o, simplemente, mostrar un mensaje genérico advirtiendo que existía algún elemento duplicado.</description>
+    </item>
+    
+    <item>
+      <title>Validar IBAN </title>
+      <link>https://blog.mrpyton.com/posts/javascript/iban/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/javascript/iban/</guid>
+      <description>Validación de un IBAN En mi trabajo he de validar números de IBAN ( International Bank Account Number) con mucha frecuencia.
+Hasta ahora he utilizado un algoritmo que &amp;ldquo;alguien&amp;rdquo; había conseguido en internet, pero no me terminaba de convencer. En primer lugar porque no entendía muy bien alguna de las operaciones que hacía y, en segundo lugar, porque pensaba que se podría realizar con menos líneas de código.</description>
+    </item>
+    
+    <item>
+      <title>Notas sobre flask</title>
+      <link>https://blog.mrpyton.com/posts/python/flask/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/python/flask/</guid>
+      <description>Flask Instalación y puesta en marcha de Flask En primer lugar creamos una carpeta, por ejemplo, flask1.
+A continuación, desde la Terminal, creamos un entorno virtual:
+virtualenv env Una vez creado el entorno, ejecutamos el siguiente comando:
+# En linux: source env/bin/activate  #En Windows: env\Scripts\activate.bat Se sabe que el entorno virtual está activado porque el promt comienza con (env).</description>
+    </item>
+    
+    <item>
+      <title>Notas sobre tkinter</title>
+      <link>https://blog.mrpyton.com/posts/python/tkinter/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/python/tkinter/</guid>
+      <description>tkinter Enlace a la documentación de tkinter.
+Ventana básica con tkinter Mostrar código fuentefrom tkinter import *  class Window():   def __init__(self):  self.root = Tk()  self.root.title(&amp;#34;Aplicación de ventanas con tkinter&amp;#34;)  self.root.geometry(&amp;#39;400x100&amp;#39;)  self.label = Label(self.root, text=&amp;#34;Pantalla generada con tkinter&amp;#34;, )  self.label.pack()    self.</description>
+    </item>
+    
+    <item>
+      <title>Herramientas</title>
+      <link>https://blog.mrpyton.com/posts/tools/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/tools/</guid>
+      <description>Links, por categorías, de sitios web.
+Fotos y vídeos Pexels: fotos y vídeos gratuitas
+Pixabay
+favicon-generator
+realfavicongenerator
+Iconos font-awesome
+Icons 8
+fonts.google.com/icons
+commons.wikimedia.org
+Texto Generador de texto - lorem ipsum
+Generador de texto falso - mockaroo
+datafakegenerator
+Diferencia entre dos textos
+Wireframe wireframe
+mockuphone
+HTML, CSS, Javascript&amp;hellip; Mozilla.org
+W3 Schools</description>
+    </item>
+    
+    <item>
+      <title>Arrays en javascript</title>
+      <link>https://blog.mrpyton.com/posts/javascript/arrays/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/javascript/arrays/</guid>
+      <description>Array En javaScript un array es un objeto que puede contener diversos elementos. Estos elementos no tienen por qué ser todos del mismo tipo:
+let un_array = [&amp;#34;lunes&amp;#34;, &amp;#34;martes&amp;#34;, 3, &amp;#34;jueves&amp;#34;, true, &amp;#34;sábado&amp;#34;, {}]; 
+El array dias contiene los 7 días de la semana:
+let dias = [  &amp;#34;lunes&amp;#34;,  &amp;#34;martes&amp;#34;,  &amp;#34;miércoles&amp;#34;,  &amp;#34;jueves&amp;#34;,  &amp;#34;viernes&amp;#34;,  &amp;#34;sábado&amp;#34;,  &amp;#34;domingo&amp;#34;, ];</description>
+    </item>
+    
+    <item>
+      <title>mrpyton</title>
+      <link>https://blog.mrpyton.com/author/mrpyton/</link>
+      <pubDate>Thu, 28 Apr 2022 10:14:19 +0600</pubDate>
+      
+      <guid>https://blog.mrpyton.com/author/mrpyton/</guid>
+      <description>Apasionado de las nuevas tecnologías.</description>
+    </item>
+    
+    <item>
+      <title>Colores web</title>
+      <link>https://blog.mrpyton.com/posts/colores_web/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/colores_web/</guid>
+      <description>Colores web Enlaces a webs relacionadas con colores web que me han parecido interesantes.
+Colores HTML
+Paleta de colores
+Color hexadecimal
+Adobe Color
+Coolors
+hailpixel
+uigradients</description>
+    </item>
+    
+    <item>
+      <title>Notas breves sobre Markdown</title>
+      <link>https://blog.mrpyton.com/posts/editores/markdown/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/editores/markdown/</guid>
+      <description>Markdown es un lenguaje de marcado ligero que añade formato a documentos de texto sin formato. Es uno de los lenguajes de marcado más utilizados en el mundo. Y lo mejor de todo: ¡es muy fácil de aprender!.
+ Sintaxis básica Encabezados # H1  ## H2  ### H3  #### H4  ##### H5  ###### H6 Párrafos Dos espacios en la línea anterior (antes del intro) permiten cambiar de línea.</description>
+    </item>
+    
+    <item>
+      <title>Hugo js</title>
+      <link>https://blog.mrpyton.com/posts/hugo/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/hugo/</guid>
+      <description>Hugo Hugo es un framework que permite crear websites estáticos de forma muy rápida.
+La comunidad de desarrolladores ha creado multitud de temas que puedes usar de forma gratuita para tu blog personal. Desde la web de Hugo puedes acceder a muchos de ellos y si buscas en internet puedes encontrar muchos más.</description>
+    </item>
+    
+    <item>
+      <title>Scripts de bash</title>
+      <link>https://blog.mrpyton.com/posts/bash/notas-bash/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/bash/notas-bash/</guid>
+      <description>Scripts sencillos de bash Hola mundo en bash #!/bin/bash  # Primer script echo &amp;#34;Hola Mundo!&amp;#34; Variables A=&amp;#39;Hola mundo con bash!&amp;#39; echo $A  # Salida: Hola mundo con bash! Control de flujo - Bucles For #!/bin/bash for numero in {1..20..2}; do 	echo Este es el número: $numero done  # Imprime: Este es el número: 1 Este es el número: 3 Este es el número: 5 Este es el número: 7 Este es el número: 9 Este es el número: 11 Este es el número: 13 Este es el número: 15 Este es el número: 17 Este es el número: 19 - Condicionales (if) nombre=&amp;#39;Pepe&amp;#39;  if [[ nombre==&amp;#39;Pepe&amp;#39; ]]; # &amp;lt;- Atención a los espacios y a los corchetes  echo &amp;#34;El nombre es Pepe&amp;#34; then elif [[ nombre==&amp;#39;Juan&amp;#39; ]]  echo &amp;#34;El nombre es Juan&amp;#34; else  echo &amp;#34;No es ni Pepe ni Juan&amp;#34; fi  # Imprime El nombre es Pepe &amp;ndash; Condicionales con números    Operador Significado     -lt Menor que (&amp;lt;)   -gt Mayor que (&amp;gt;)   -le Menor o igual que (&amp;lt;=)   -ge Mayor o igual que (&amp;gt;=)   -eq Igual (==)   -ne Distinto de (!</description>
+    </item>
+    
+    <item>
+      <title>Notas sobre awk</title>
+      <link>https://blog.mrpyton.com/posts/bash/notas-awk/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/bash/notas-awk/</guid>
+      <description>Una poderosa herramienta para procesar datos AWK es un lenguaje de programación diseñado para el procesamiento de datos basados en texto. El nombre, según la Wikipedia, procede de las iniciales de sus autores: Alfred Aho, Peter Weinberger y Brian Kernighan (AWK).
+ Se usa así:
+$ awk options program file awk puede tomar las siguientes opciones:</description>
+    </item>
+    
+    <item>
+      <title>Search Result</title>
+      <link>https://blog.mrpyton.com/search/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://blog.mrpyton.com/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Página no encontrada</title>
+      <link>https://blog.mrpyton.com/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/404/</guid>
+      <description> Error 404: Página no encontrada  </description>
+    </item>
+    
+    <item>
+      <title>Privacidad</title>
+      <link>https://blog.mrpyton.com/privacidad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/privacidad/</guid>
+      <description>Responsibilidad Este blog es un cuaderno de notas sin ningún tipo de pretensión comercial ni ánimo de lucro.
+Los textos que aparecen en este sitio se refieren, fundamentalmente, a notas sobre programación o referencias a webs que el autor del artículo ha considerado interesantes.
+El responsable de este blog no se hace cargo sobre ningún tipo de daño que puedan sufrir los lectores de este sitio.</description>
+    </item>
+    
+  </channel>
+</rss>

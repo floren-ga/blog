@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on mrpyton - Personal Blog</title>
+    <link>https://blog.mrpyton.com/categories/python/</link>
+    <description>Recent content in python on mrpyton - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.mrpyton.com/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formularios PDF</title>
+      <link>https://blog.mrpyton.com/posts/python/reportlab/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/python/reportlab/</guid>
+      <description>Reportlab Reportlab te permite crear documentos PDF desde Python. De código abierto, constituye una amplia librería con infinidad de utilidades.
+Instalación pip install reportlab Repositorio https://hg.reportlab.com/hg-public/
+API Permite generar documentos PDF directamente desde Python. Dispone de un lenguaje de plantillas llamado RML
+Documentación: https://www.reportlab.com/dev/docs/
+Hola Mundo! from reportlab.pdfgen import canvas c = canvas.</description>
+    </item>
+    
+    <item>
+      <title>Notas sobre flask</title>
+      <link>https://blog.mrpyton.com/posts/python/flask/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/python/flask/</guid>
+      <description>Flask Instalación y puesta en marcha de Flask En primer lugar creamos una carpeta, por ejemplo, flask1.
+A continuación, desde la Terminal, creamos un entorno virtual:
+virtualenv env Una vez creado el entorno, ejecutamos el siguiente comando:
+# En linux: source env/bin/activate  #En Windows: env\Scripts\activate.bat Se sabe que el entorno virtual está activado porque el promt comienza con (env).</description>
+    </item>
+    
+    <item>
+      <title>Notas sobre tkinter</title>
+      <link>https://blog.mrpyton.com/posts/python/tkinter/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/python/tkinter/</guid>
+      <description>tkinter Enlace a la documentación de tkinter.
+Ventana básica con tkinter Mostrar código fuentefrom tkinter import *  class Window():   def __init__(self):  self.root = Tk()  self.root.title(&amp;#34;Aplicación de ventanas con tkinter&amp;#34;)  self.root.geometry(&amp;#39;400x100&amp;#39;)  self.label = Label(self.root, text=&amp;#34;Pantalla generada con tkinter&amp;#34;, )  self.label.pack()    self.</description>
+    </item>
+    
+  </channel>
+</rss>

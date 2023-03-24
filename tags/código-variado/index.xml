@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>código variado on mrpyton - Personal Blog</title>
+    <link>https://blog.mrpyton.com/tags/c%C3%B3digo-variado/</link>
+    <description>Recent content in código variado on mrpyton - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.mrpyton.com/tags/c%C3%B3digo-variado/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pequeños trozos de código</title>
+      <link>https://blog.mrpyton.com/posts/javascript/soluciones_varias/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/javascript/soluciones_varias/</guid>
+      <description>addEventListener en navegadores no compatibles Explorer 8 y anteriores no implementan addEventListener. La forma de solucionar este problema puede ser el siguiente:
+boton = document.getElementById(&amp;#34;button&amp;#34;);  if (boton.addEventListener) {  boton.addEventListener(&amp;#34;click&amp;#34;, handler, false); } else {  boton.attachEvent(&amp;#34;onclick&amp;#34;, handler); } </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>formulario on mrpyton - Personal Blog</title>
+    <link>https://blog.mrpyton.com/tags/formulario/</link>
+    <description>Recent content in formulario on mrpyton - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.mrpyton.com/tags/formulario/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formularios PDF</title>
+      <link>https://blog.mrpyton.com/posts/python/reportlab/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mrpyton.com/posts/python/reportlab/</guid>
+      <description>Reportlab Reportlab te permite crear documentos PDF desde Python. De código abierto, constituye una amplia librería con infinidad de utilidades.
+Instalación pip install reportlab Repositorio https://hg.reportlab.com/hg-public/
+API Permite generar documentos PDF directamente desde Python. Dispone de un lenguaje de plantillas llamado RML
+Documentación: https://www.reportlab.com/dev/docs/
+Hola Mundo! from reportlab.pdfgen import canvas c = canvas.</description>
+    </item>
+    
+  </channel>
+</rss>
